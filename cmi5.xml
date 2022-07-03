@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<courseStructure xmlns="https://w3id.org/xapi/profiles/cmi5/v1/CourseStructure.xsd">
+  <course id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/course">
+    <title>
+      <langstring lang="en-US">test</langstring>
+    </title>
+    <description>
+      <langstring lang="en-US"></langstring>
+    </description>
+  </course>
+  <objectives>
+          <objective id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/nCY9ft1fpWNa9wgqmys9FS1aEwisMxnu">
+        <title>
+          <langstring lang="en-US">
+            quiz 1
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/I-5Unnsa5nzY2sD5bMvgvYLsQ9ydeQ_f">
+        <title>
+          <langstring lang="en-US">
+            Module 1: Check you understanding
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/4z97FkQxaGSkRkxH_SBl7HMGABkw-LPW">
+        <title>
+          <langstring lang="en-US">
+            Module2: Check you understanding
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/Ft6jObjTRvfwx6MNKA6KIk89QPlUG7Ko">
+        <title>
+          <langstring lang="en-US">
+            Module 3: Check you understanding
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/44Gy_LAuQo1x6ipTUfRfwmNwNlJatn19">
+        <title>
+          <langstring lang="en-US">
+            Module 1: Check you understanding
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/1G60u8mJtcZ2z3Sp4JEAwE5CqjNUNCwf">
+        <title>
+          <langstring lang="en-US">
+            Module 2: Check you understanding
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/dSVfflK6hnyEjO9p6vRbtgU9Iq_3aOo9">
+        <title>
+          <langstring lang="en-US">
+            Module 3: Check you understanding
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+      </objectives>
+  
+  <au id="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/activity" launchMethod="OwnWindow" moveOn="Passed"  >
+    <title>
+      <langstring lang="en">
+        test
+      </langstring>
+    </title>
+    <description>
+      <langstring lang="en">
+        
+      </langstring>
+    </description>
+    <objectives>
+              <objective idref="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/nCY9ft1fpWNa9wgqmys9FS1aEwisMxnu" />
+              <objective idref="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/I-5Unnsa5nzY2sD5bMvgvYLsQ9ydeQ_f" />
+              <objective idref="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/4z97FkQxaGSkRkxH_SBl7HMGABkw-LPW" />
+              <objective idref="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/Ft6jObjTRvfwx6MNKA6KIk89QPlUG7Ko" />
+              <objective idref="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/44Gy_LAuQo1x6ipTUfRfwmNwNlJatn19" />
+              <objective idref="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/1G60u8mJtcZ2z3Sp4JEAwE5CqjNUNCwf" />
+              <objective idref="http://pukYzTNx55RceB4raFYokL7H49YBr1SA_rise/objective/dSVfflK6hnyEjO9p6vRbtgU9Iq_3aOo9" />
+          </objectives>
+    <url>scormdriver/indexAPI.html</url>
+    <launchParameters>eyJjcHYiOiJMNlJfSzlpYSIsInJsZCI6ZmFsc2V9</launchParameters>
+  </au>
+</courseStructure>
